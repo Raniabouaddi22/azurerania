@@ -1,0 +1,15 @@
+# Fichiers temporaires
+*.pyc
+__pycache__/
+
+# Fichiers de configuration
+.vscode/
+.env
+
+# Fichiers spécifiques à l'environnement
+env/
+venv/
+
+# Dossiers de sortie
+bin/
+obj/
